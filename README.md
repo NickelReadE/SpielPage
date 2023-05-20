@@ -11,3 +11,5 @@ To run this:
 6. Scan the QR code and you can then see the application
 
 (If there are any warnings in terminal you can ignore them but if the app doesn't work make sure your versions match)
+
+This task took around 3-4 hours
